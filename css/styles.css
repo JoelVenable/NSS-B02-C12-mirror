@@ -1,0 +1,17 @@
+
+
+.flex-container {
+  display: flex;
+  min-height: 2rem;
+}
+
+.textbox {
+  width: 50%;
+  border: 1px solid brown;
+}
+
+
+#right {
+  border-color: green;
+  text-align: right;
+}
